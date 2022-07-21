@@ -3,7 +3,7 @@
 ![1](https://user-images.githubusercontent.com/62218857/180105861-d1d3d5cb-f1aa-4f2a-9647-0083ac63e501.png)
 
 ## What is this?
-* This is **Port scanner** made with **Rust** lang. Its fully working with version 1.0
+* This is **Port scanner** made with **Rust** lang. Working **version 1.0**
 
 ## How to use it?
 * [Download](https://github.com/DomagojRatko/Port-Scanner/raw/main/port_scanner/port_scanner.exe) `port_scanner.exe` and run it from terminal.
