@@ -1,4 +1,4 @@
-# Port-Scanner
+# Rust Port Scanner
 
 ![1](https://user-images.githubusercontent.com/62218857/180105861-d1d3d5cb-f1aa-4f2a-9647-0083ac63e501.png)
 
